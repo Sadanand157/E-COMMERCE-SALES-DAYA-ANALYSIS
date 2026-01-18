@@ -97,10 +97,6 @@ This dashboard is designed to answer key **business-driven questions** that help
 * Regional performance varies significantly, highlighting growth opportunities
 * Profit margin trends help identify cost-optimization areas
 
-## 📷 Dashboard Preview
-
-![E-commerce Sales Dashboard](dashboard.png)
-
 ## 📌 Conclusion
 
 This E-commerce Sales Data Analysis Dashboard demonstrates strong analytical skills in **Excel, data visualization, and business analysis**.
