@@ -11,7 +11,7 @@ The dashboard provides **year-over-year (YoY) growth analysis**, category-wise p
 - <a href="https://github.com/Sadanand157/E-COMMERCE-SALES-DAYA-ANALYSIS/blob/main/E%20commerce%20Sales%20Analysis.xlsx">Dataset</a>
 
 ## 📷 Dashboard Preview
-- <a href="https://github.com/Sadanand157/E-COMMERCE-SALES-DAYA-ANALYSIS/blob/main/image.png">E-commerce Sales Dashboard</a>
+- <a href="https://github.com/Sadanand157/E-COMMERCE-SALES-DAYA-ANALYSIS/blob/main/image.png">View Dashboard</a>
 
 ## ❓ Business Questions 
 
