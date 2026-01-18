@@ -7,10 +7,11 @@ An interactive dashboard has been created to help stakeholders track performance
 
 The dashboard provides **year-over-year (YoY) growth analysis**, category-wise performance, top-selling products, and regional insights.
 
----
 ## Dataset used
+- <a href="https://github.com/Sadanand157/E-COMMERCE-SALES-DAYA-ANALYSIS/blob/main/E%20commerce%20Sales%20Analysis.xlsx">Dataset</a>
 
-- <a href="https://github.com/Sadanand157/E-COMMERCE-SALES-DAYA-ANALYSIS/blob/main/E%20commerce%20Sales%20Analysis.xlsx">Dataset</a> 
+## 📷 Dashboard Preview
+- <a href="https://github.com/Sadanand157/E-COMMERCE-SALES-DAYA-ANALYSIS/blob/main/image.png">E-commerce Sales Dashboard</a>
 
 ## ❓ Business Questions 
 
@@ -38,7 +39,6 @@ This dashboard is designed to answer key **business-driven questions** that help
    * Determined which **product category** generates the maximum sales value.
 9. **Percentage of Total Orders Delivered**
    * Calculated the **delivery success rate** by finding the percentage of delivered orders out of total orders.
----
 
 ## 🛠 Tools & Technologies Used
 
@@ -56,8 +56,6 @@ This dashboard is designed to answer key **business-driven questions** that help
   * Bar Charts
   * Slicers (Year, Region, Segment)
 
----
-
 ## 📂 Dataset Information
 
 * **Domain:** E-Commerce
@@ -73,8 +71,6 @@ This dashboard is designed to answer key **business-driven questions** that help
   * Region & State
   * Customer Segment
 
----
-
 ## 📈 Key KPIs
 
 * **Total Sales**
@@ -83,8 +79,6 @@ This dashboard is designed to answer key **business-driven questions** that help
 * **Number of Orders**
 * **Profit Margin (%)**
 * **YoY Growth (%)**
-
----
 
 ## 📊 Dashboard Features
 
@@ -95,8 +89,6 @@ This dashboard is designed to answer key **business-driven questions** that help
 * **Segment-wise Analysis (Consumer, Corporate, Home Office)**
 * **Region & Year Filters for Dynamic Analysis**
 
----
-
 ## 🔍 Key Insights
 
 * Technology category contributes the **highest share of sales**
@@ -105,17 +97,11 @@ This dashboard is designed to answer key **business-driven questions** that help
 * Regional performance varies significantly, highlighting growth opportunities
 * Profit margin trends help identify cost-optimization areas
 
----
-
 ## 📷 Dashboard Preview
 
 ![E-commerce Sales Dashboard](dashboard.png)
-
----
 
 ## 📌 Conclusion
 
 This E-commerce Sales Data Analysis Dashboard demonstrates strong analytical skills in **Excel, data visualization, and business analysis**.
 It is suitable for **Data Analyst, MIS Executive, Business Analyst, and Reporting roles**.
-
----
